@@ -1,11 +1,3 @@
-#! /usr/bin/env python3
-
-"""Script to search with Google
-
-Usage:
-    python3 google.py [search terms]
-"""
-
 import sys
 import urllib.parse
 import webbrowser
