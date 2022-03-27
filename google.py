@@ -1,7 +1,12 @@
+#Imports:
+
 import sys
 import urllib.parse
 import webbrowser
 
+#End of imports
+
+#Program
 
 def main(args):
     def quote(arg):
@@ -15,3 +20,5 @@ def main(args):
 
 if __name__ == '__main__':
     main(sys.argv[1:])
+
+#End of the program 
